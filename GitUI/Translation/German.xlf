@@ -3856,7 +3856,7 @@ gitex.cmd / gitex (befinden sich im gleichen Ordner wie GitExtensions.exe):</tar
       </trans-unit>
       <trans-unit id="CommitAndPush.Text">
         <source>Commit &amp;&amp; &amp;push</source>
-        <target>Comitten &amp;&amp; &amp;Pushen</target>
+        <target>Committen &amp;&amp; &amp;Pushen</target>
         
       </trans-unit>
       <trans-unit id="Ok.Text">
@@ -4039,7 +4039,7 @@ Wollen Sie trotzdem fortfahren?</target>
       </trans-unit>
       <trans-unit id="_mergeConflicts.Text">
         <source>There are unresolved merge conflicts, solve merge conflicts before committing.</source>
-        <target>Es gibt unaufgelöste Merge-Konflikte. Lösen Sie diese vor dem Comitten.</target>
+        <target>Es gibt unaufgelöste Merge-Konflikte. Lösen Sie diese vor dem Committen.</target>
         
       </trans-unit>
       <trans-unit id="_mergeConflictsCaption.Text">
@@ -7820,8 +7820,8 @@ Wollen Sie die Änderungen zurücksetzen ?</target>
       <trans-unit id="_allConflictsResolved.Text">
         <source>All merge conflicts are resolved, you can commit.
 Do you want to commit now?</source>
-        <target>Alle Merge-Konflikte wurden aufgelöst und sie können comitten.
-Möchten Sie jetzt comitten?</target>
+        <target>Alle Merge-Konflikte wurden aufgelöst und sie können Committen.
+Möchten Sie jetzt Committen?</target>
         
       </trans-unit>
       <trans-unit id="_allConflictsResolvedCaption.Text">
